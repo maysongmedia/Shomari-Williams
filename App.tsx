@@ -133,7 +133,7 @@ const App: React.FC = () => {
                          <div className="w-8 h-px bg-blue-600"></div>
                          <span className="text-xs font-black text-blue-600 uppercase tracking-[0.3em]">Integrity Advantage</span>
                       </div>
-                      <h2 className="text-5xl font-extrabold text-[#001f3f] tracking-tight italic leading-[1.1]">Your One-Stop <br/>Insurance Resource</h2>
+                      <h2 className="text-5xl font-extrabold text-[#001f3f] tracking-tight leading-[1.1]">Your One-Stop <br/>Insurance Resource</h2>
                       <p className="text-slate-500 text-lg font-medium leading-relaxed">We simplify the complex world of insurance with tools that prioritize your family's needs above all else.</p>
                     </div>
 
