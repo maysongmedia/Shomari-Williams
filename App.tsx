@@ -203,7 +203,7 @@ const App: React.FC = () => {
           <div className="absolute top-0 left-0 w-full h-full bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-white via-transparent to-transparent"></div>
         </div>
         <div className="max-w-4xl mx-auto px-4 text-center relative z-10">
-          <h2 className="text-5xl font-black text-white italic tracking-tighter mb-8">Ready to Find Your Coverage?</h2>
+          <h2 className="text-5xl font-bold text-white tracking-tighter mb-8">Ready to Find Your Coverage?</h2>
           <div className="glass p-12 rounded-[2.5rem] bg-white/10 backdrop-blur-xl border-white/20">
              <p className="text-blue-100 font-bold uppercase tracking-[0.2em] text-sm mb-6">Find Coverage</p>
              <p className="text-white text-xl mb-10 font-medium">View coverage options and costs available to you by starting your quote today.</p>
