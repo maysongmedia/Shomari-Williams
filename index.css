@@ -1,17 +1,2 @@
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@layer base {
-  body {
-    @apply font-sans antialiased bg-white;
-    scroll-behavior: smooth;
-  }
-}
-
-@layer components {
-  .glass {
-    @apply bg-white/70 backdrop-blur-md border border-white/30;
-  }
-}
+/* Styles are now handled via CDN in index.html */
